@@ -1,0 +1,4 @@
+name: SneakInventoryMAX
+version: '${version}'
+main: plugin.sneakinventorymax.Main
+api-version: '1.20'
