@@ -13,7 +13,7 @@
 ・Spigotサーバーがあること（Version:1.20.4）
 
 ## 使用技術一覧
-<img src="https://github.com/HAYASHInnn/sneakMAX/assets/155308348/00471e79-0d88-41be-a2a3-424c2de2e964" width="100%">
+<img src="https://github.com/HAYASHInnn/SneakInventoryMAX/assets/155308348/55bf4f3d-d4ba-470d-b204-9d8ff81adaf6" width="100%">
 
 ## システム構成図
 <img src="https://github.com/HAYASHInnn/sneakMAX/assets/155308348/6183275b-277f-4a97-a584-f39cc5d49d77" width="50%">
