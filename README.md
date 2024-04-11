@@ -1,5 +1,5 @@
 # SneakInventoryMAX
-<img src="https://github.com/HAYASHInnn/sneakMAX/assets/155308348/d6ea3834-6dd6-4c54-8b25-f20f47c7950e" width="50%"> 
+<img src="https://github.com/HAYASHInnn/SneakInventoryMAX/assets/155308348/9d7c5f6a-e627-4fa7-adc6-e5de9b539aec" width="50%"> 
 
 ## プロジェクトの概要
 ゲーム内の所持品を増やすプラグインを開発。特定の動作を行うことで所持品がMAXになる。
