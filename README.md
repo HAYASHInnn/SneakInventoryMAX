@@ -19,7 +19,7 @@
 <img src="https://github.com/HAYASHInnn/SneakInventoryMAX/assets/155308348/4ff3fa51-105b-422c-a2e4-7039d68d0a8a" width="50%">
 
 ## 使い方
-***【注意事項】***
+**【注意事項】**
   
 ・マルチサーバー内にプレイヤーが１人であること 
  
