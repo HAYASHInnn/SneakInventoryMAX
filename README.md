@@ -16,7 +16,7 @@
 <img src="https://github.com/HAYASHInnn/SneakInventoryMAX/assets/155308348/55bf4f3d-d4ba-470d-b204-9d8ff81adaf6" width="100%">
 
 ## システム構成図
-<img src="https://github.com/HAYASHInnn/sneakMAX/assets/155308348/6183275b-277f-4a97-a584-f39cc5d49d77" width="50%">
+<img src="https://github.com/HAYASHInnn/SneakInventoryMAX/assets/155308348/4ff3fa51-105b-422c-a2e4-7039d68d0a8a" width="50%">
 
 ## 使い方
 ***【注意事項】***
