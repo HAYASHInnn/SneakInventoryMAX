@@ -5,7 +5,7 @@
 ゲーム内の所持品を増やすプラグインを開発。特定の動作を行うことで所持品がMAXになる。
 
 ## DEMO
-<img src="https://github.com/HAYASHInnn/sneakMAX/assets/155308348/1e089c7e-469a-4951-a838-05b6ecfdd505" width="500px">
+<img src="https://github.com/HAYASHInnn/SneakInventoryMAX/assets/155308348/068f9baa-0b8b-4947-b56d-14f96dc73a09" width="500px">
 
 ## 必要条件
 ・Minecraft Java版のプレイ環境　
